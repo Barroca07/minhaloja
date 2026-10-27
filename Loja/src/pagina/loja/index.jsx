@@ -132,7 +132,7 @@ export default function Loja() {
 
     async function carregarProdutos() {
       try {
-        const resposta = await fetch("http://localhost:3000/products");
+        const resposta = await fetch("http://192.168.100.17:3000/products");
 
         if (!resposta.ok) {
           throw new Error("Erro ao carregar os produtos.");
