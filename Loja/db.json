@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sabonete de Lavanda",
+      "category": "Sabonetes",
+      "description": "Sabonete artesanal com óleo essencial de lavanda.",
+      "price": 1890,
+      "stock": 25,
+      "image": "https://picsum.photos/seed/lavanda/400/300"
+    },
+    {
+      "id": 2,
+      "name": "Sabonete de Argila Verde",
+      "category": "Sabonetes",
+      "description": "Limpeza profunda para peles mistas e oleosas.",
+      "price": 1990,
+      "stock": 30,
+      "image": "https://picsum.photos/seed/argila/400/300"
+    },
+    {
+      "id": 3,
+      "name": "Sabonete de Aveia e Mel",
+      "category": "Sabonetes",
+      "description": "Suave, indicado para peles sensíveis.",
+      "price": 1750,
+      "stock": 0,
+      "image": "https://picsum.photos/seed/aveia/400/300"
+    },
+    {
+      "id": 4,
+      "name": "Hidratante Corporal de Karité",
+      "category": "Corpo",
+      "description": "Hidratação intensa com manteiga de karité.",
+      "price": 4200,
+      "stock": 15,
+      "image": "https://picsum.photos/seed/karite/400/300"
+    },
+    {
+      "id": 5,
+      "name": "Óleo Corporal de Amêndoas",
+      "category": "Corpo",
+      "description": "Óleo vegetal prensado a frio.",
+      "price": 4890,
+      "stock": 12,
+      "image": "https://picsum.photos/seed/amendoas/400/300"
+    },
+    {
+      "id": 6,
+      "name": "Esfoliante de Café",
+      "category": "Corpo",
+      "description": "Esfoliante corporal com borra de café.",
+      "price": 3400,
+      "stock": 20,
+      "image": "https://picsum.photos/seed/cafe/400/300"
+    },
+    {
+      "id": 7,
+      "name": "Sérum Facial de Vitamina C",
+      "category": "Rosto",
+      "description": "Uniformiza o tom e ilumina a pele.",
+      "price": 7990,
+      "promoPrice": 6990,
+      "stock": 8,
+      "image": "https://picsum.photos/seed/serum/400/300"
+    },
+    {
+      "id": 8,
+      "name": "Creme Facial Noturno",
+      "category": "Rosto",
+      "description": "Regenera a pele durante a noite.",
+      "price": 6400,
+      "stock": 10,
+      "image": "https://picsum.photos/seed/noturno/400/300"
+    },
+    {
+      "id": 9,
+      "name": "Água Micelar Natural",
+      "category": "Rosto",
+      "description": "Remove maquiagem sem agredir.",
+      "price": 3990,
+      "stock": 18,
+      "image": "https://picsum.photos/seed/micelar/400/300"
+    },
+    {
+      "id": 10,
+      "name": "Shampoo em Barra de Coco",
+      "category": "Cabelos",
+      "description": "Sem sulfato, rende até 80 lavagens.",
+      "price": 3200,
+      "stock": 22,
+      "image": "https://picsum.photos/seed/coco/400/300"
+    },
+    {
+      "id": 11,
+      "name": "Condicionador em Barra de Manteiga",
+      "category": "Cabelos",
+      "description": "Desembaraça e nutre os fios.",
+      "price": 3300,
+      "stock": 0,
+      "image": "https://picsum.photos/seed/manteiga/400/300"
+    },
+    {
+      "id": 12,
+      "name": "Kit Presente Relax",
+      "category": "Kits",
+      "description": "Sabonete, esfoliante e óleo em caixa presente.",
+      "price": 12900,
+      "promoPrice": 10990,
+      "stock": 6,
+      "image": "https://picsum.photos/seed/kit/400/300"
+    }
+  ]
+}
